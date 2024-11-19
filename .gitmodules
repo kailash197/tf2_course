@@ -1,0 +1,3 @@
+[submodule "ros2_tf_course"]
+	path = ros2_tf_course
+	url = https://bitbucket.org/theconstructcore/ros2_tf_course.git
